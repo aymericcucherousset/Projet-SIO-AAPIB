@@ -1,0 +1,4 @@
+Le Windows Serveur contient : 
+  - Le Serveur DNS
+  - L'Active Directory 
+  - Le Serveur d'Impression
