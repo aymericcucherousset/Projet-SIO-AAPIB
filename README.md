@@ -23,6 +23,16 @@
     - intranet:
       - intranetuser / intranetpw (bdd)
       - root / projetsio (bdd)
+      
+ # Nextcloud:
+    - Debian : sio et root / projetsio
+    
+    - bdd : 
+      - root / projetsio 
+      - nextclouduser / projetsio
+      
+    - Nextcloud:
+      - sio / projetsio
 
 
 ## DNS
