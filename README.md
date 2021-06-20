@@ -48,3 +48,14 @@
   - Zabbix        : 10.0.2.244
   - Nextcloud     : 10.0.2.243
  
+
+## Taches :
+
+  - Définir des IP static pour les serveurs
+  - Ajouter les utilisateurs sur l'intranet
+  - Ajouter nextcloud et la lisaison LDAP
+
+  - Site vitrine sous WP
+  - Serveur DNS
+
+  - GNS 3
