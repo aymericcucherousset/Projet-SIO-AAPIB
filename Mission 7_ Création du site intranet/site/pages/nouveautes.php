@@ -44,7 +44,7 @@ if (!empty($_POST['article_title']) && !empty($_POST['article_content'])) {
                 <fieldset>
                     <legend class="mt-2 text-center">Ajouter un article</legend>
                     <div class="form-group">
-                    <label class="col-sm-2 col-form-label">Titre de l'article</label>
+                    <label class="form-label mt-4">Titre de l'article</label>
                         <input type="text" class="form-control" placeholder="Titre de l'article" name="article_title" required>
                     </div>
                     <div class="form-group">
