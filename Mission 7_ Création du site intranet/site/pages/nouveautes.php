@@ -43,7 +43,7 @@ if (!empty($_POST['article_title']) && !empty($_POST['article_content'])) {
             <form method="POST" action="index.php?url=nouveautes"  enctype="multipart/form-data">
                 <fieldset>
                     <legend class="mt-2 text-center">Ajouter un article</legend>
-                    <div class="form-group row">
+                    <div class="form-group">
                     <label class="col-sm-2 col-form-label">Titre de l'article</label>
                         <input type="text" class="form-control" placeholder="Titre de l'article" name="article_title" required>
                     </div>
