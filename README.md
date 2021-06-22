@@ -9,7 +9,7 @@
 - [ ] Mission 4: Gestion du parc
 - [ ] Mission 5: Mise en place d'un cloud
 - [ ] Mission 6: Création d'un site vitrine
-- [ ] Mission 7: Création d'un site intranet
+- [x] Mission 7: Création d'un site intranet
 - [ ] Mission 8: Mise en place de sécurités
 
 ## Utilisateurs
@@ -59,14 +59,14 @@
   - Nextcloud     : 10.0.2.243
  
 
-## Taches :
+## Taches Restantes :
 
-  - Définir des IP static pour les serveurs
-  - Ajouter les utilisateurs sur l'intranet
-  - Ajouter nextcloud et la lisaison LDAP
+  - Nextcloud (Lisaison LDAP)
+  - Zabbix    (Lisaison LDAP)
+  - GLPI      (Fusion Inventory)
 
   - Site vitrine sous WP
   - Serveur DNS
 
   - GNS 3
-  - Certficat avec authorité de certficat 
+  - Certficat avec authorité de certfication
