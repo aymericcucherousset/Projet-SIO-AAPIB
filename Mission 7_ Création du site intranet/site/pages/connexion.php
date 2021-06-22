@@ -26,7 +26,7 @@ if (!empty($_GET['error'])) {
             <div class="card border-primary mb-3 col-4">
                 <div class="card-body">
                     <h4 class="card-title text-center">Connexion</h4>
-                    <form method="POST" action="index.php&url=ldap">
+                    <form method="POST" action="index.php?url=ldap">
                         <fieldset>
                             <div class="form-group">
                                 <label class="form-label mt-4">Nom d'utilisateur</label>
