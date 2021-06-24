@@ -12,24 +12,25 @@ La répartitions des taches à été construite de la manière suivante :
 - En rose les réunions de mises en commun 
 - En rouge les taches de Cyber Sécurité
 
-Nous avons décider de nous partager certaines taches et d'en faire d'autres ensemble. 
+Nous avons décidé de nous partager certaines taches et d'en faire d'autres ensemble. 
 
-Nous nous sommes renseigné ensemble pour l'installation et l'utilisation de Proxmox. Ce qui nous a fait prendre une semaine de retard par rapport à notre Gant.
+Nous nous sommes concerté pour l'installation et l'utilisation de Proxmox. Ce qui nous a fait prendre une semaine de retard par rapport à notre Gant.
 
-Antoine c'est chargé de faire l'installation et les paramètrages du Windows Serveur pendant que Aymeric à commencé de dévelloper l'intranet.
+Antoine s'est chargé de faire l'installation et les paramétrages du Windows Serveur pendant que Aymeric a commencé de développer l'intranet.
 
-Suite à la première mission réalisée, avec une semaine de retard. Nous nous sommes renseignés pour utiliser Docker (pendant 2 semaines), sans résultats concluants.  
+Suite à la première mission réalisée, avec une semaine de retard, nous nous sommes renseignés pour utiliser Docker (étude de 2 semaines), sans résultats concluants.  
 
-Nous avons installer et configurer le serveur d'impression avec l'ajout des imprimantes en 3 semaines, c'est à ce moment moment que le déclic retetenti, nous avons mis les bouchées doubles.
+Nous avons installé et configuré le serveur d'impression avec l'ajout des imprimantes en 3 semaines, c'est à ce moment que nous nous sommes aperçu que nous avions perdu de nombreuses heures sur notre planning prévisionnel. Nous avons donc redoublé d'efforts.
 
-Nous nous sommes fixé d'avantage de travail en groupe, pour s'entraider et être plus éfficaces.
-On c'est occuper d'installer Glpi, Nextcloud et Zabbix ensemble.
+Nous nous sommes fixé d'avantage de travail en groupe, pour s'entraider et être plus efficaces.
+
+Nous nous sommes occupé d'installer Glpi, Nextcloud et Zabbix ensemble.
 
 Aymeric a fini de développer l'intranet avec quelques semaines de retard.
 
-Nous avons installer et configurer le Reverse Proxy ensemble.
+Nous avons installé et configuré le Reverse Proxy ensemble.
 
-La dernière semaine nous avons fais le site Web vitrine, la cartographie du réseau, préparation de sécurité (Sans la mise en place) et préparer les procédures.
+La dernière semaine a vue naître le site Web vitrine, la cartographie du réseau, prépararation des procédures (utilisation du site...) et enfin la préparation des sécurités (Sans la mise en place).
 
 ## Expérimentations
 
