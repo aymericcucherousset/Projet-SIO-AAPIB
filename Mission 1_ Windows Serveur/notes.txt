@@ -1,3 +1,6 @@
+Nous avons initialement tenté de réaliser de la virtualisation imbriqué dans virtualbox,
+à l'aide de Proxmox, mais nos machines n'étaient pas compatiblent.
+
 Le Windows Serveur contient : 
   - Le Serveur DNS
   - L'Active Directory 
