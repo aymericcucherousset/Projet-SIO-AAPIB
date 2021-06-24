@@ -52,6 +52,22 @@ La dernière semaine a vu naître le site Web vitrine, la cartographie du résea
 - [ ] Mission 8: Mise en place de sécurités
 
 ## Utilisateurs
+
+  # AD:
+  
+   - Admins :
+     - aymeric / Projetsio1.
+     - antoine / Foehammer0
+
+   - Utilisateurs : 
+     - BATON / Parapluie1?
+     - ROTTIN / Parapluie2?
+     - LACAUX / ParapluieL?
+     - ROY / ParapluieR?
+     - DELICE / ParapluieD?
+     - BINNON / ParapluieB?
+     - PUMA / ParapluieP?
+    
   # WEB:
     - Debian : sio et root / projetsio
     
@@ -72,7 +88,15 @@ La dernière semaine a vu naître le site Web vitrine, la cartographie du résea
       
     - Nextcloud:
       - sio / projetsio
+      
+ 
+  # Zabbix:
+    - Debian : sio et root / projetsio
+    
+    - Zabbix : Admin / zabbix
 
+  # Reverse Proxy:
+    - Debian : sio et root / projetsio
 
 ## DNS
 
