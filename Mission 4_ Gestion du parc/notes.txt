@@ -1,0 +1,10 @@
+Nous avons fait le choix d'installer OCS par rapport au plugin GLPI fusion inventory, 
+pour les raisons suivantes:
+
+- OCS est indépendants de GLPI donc si l'un des deux est en panne, l'autre sera disponible
+  alors que fusion inventory est dépendent de GLPI donc si GLPI est en panne Fusion Inventory le serait aussi.
+  
+- Fusion Inventory n'est pas disponible sur la dernière version, donc pour avoir les deux, il faut 
+  conserver les failles de sécurités.
+ 
+- OCS est plus complet que Fusion Inventory.
