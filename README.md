@@ -10,6 +10,7 @@ La répartitions des taches à été construite de la manière suivante :
 - En bleu les taches de Réseaux
 - En vert les taches de Développement
 - En rose les réunions de mises en commun 
+- En rouge les taches de Cyber Sécurité
 
 Nous avons décider de nous partager certaines taches et d'en faire d'autres ensemble. 
 
