@@ -1,10 +1,34 @@
 # Projet-SIO-AAPIB
  Projet SIO AAPIB BTS SIO 1ère année, Aymeric Antoine
  
+ ## Répartitions des taches (Gantt Project)
+ 
 ![alt text](https://github.com/aymericcucherousset/Projet-SIO-AAPIB/blob/main/GANT.png)
 
- bla bla bla Gant bla bla bla
+La répartitions des taches à été construite de la manière suivante : 
 
+- En bleu les taches de Réseaux
+- En vert les taches de Développement
+- En rose les réunions de mises en commun 
+
+Nous avons décider de nous partager certaines taches et d'en faire d'autres ensemble. 
+
+Nous nous sommes renseigné ensemble pour l'installation et l'utilisation de Proxmox. Ce qui nous a fait prendre une semaine de retard par rapport à notre Gant.
+
+Antoine c'est chargé de faire l'installation et les paramètrages du Windows Serveur pendant que Aymeric à commencé de dévelloper l'intranet.
+
+Suite à la première mission réalisée, avec une semaine de retard. Nous nous sommes renseignés pour utiliser Docker (pendant 2 semaines), sans résultats concluants.  
+
+Nous avons installer et configurer le serveur d'impression avec l'ajout des imprimantes en 3 semaines, c'est à ce moment moment que le déclic retetenti, nous avons mis les bouchées doubles.
+
+Nous nous sommes fixé d'avantage de travail en groupe, pour s'entraider et être plus éfficaces.
+On c'est occuper d'installer Glpi, Nextcloud et Zabbix ensemble.
+
+Aymeric a fini de développer l'intranet avec quelques semaines de retard.
+
+Nous avons installer et configurer le Reverse Proxy ensemble.
+
+La dernière semaine nous avons fais le site Web vitrine, la cartographie du réseau, préparation de sécurité (Sans la mise en place) et préparer les procédures.
 
 ## Expérimentations
 
