@@ -16,7 +16,7 @@
 - [x] Mission 3: Gestion des pannes
 - [ ] Mission 4: Gestion du parc
 - [ ] Mission 5: Mise en place d'un cloud
-- [ ] Mission 6: Création d'un site vitrine
+- [x] Mission 6: Création d'un site vitrine
 - [x] Mission 7: Création d'un site intranet
 - [ ] Mission 8: Mise en place de sécurités
 
@@ -71,10 +71,9 @@
 
   - Nextcloud (Lisaison LDAP)
   - Zabbix    (Lisaison LDAP)
-  - GLPI      (Fusion Inventory)
+  - GLPI      (OCS)
 
-  - Site vitrine sous WP
   - Serveur DNS
 
-  - GNS 3
+  - Cisco
   - Certficat avec authorité de certfication
