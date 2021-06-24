@@ -85,6 +85,7 @@ La dernière semaine nous avons fais le site Web vitrine, la cartographie du ré
   - [glpi.intranet.local](http://glpi.intranet.local)           -> Debian-projet-reverse-proxy -> Debian-projet-glpi
   - [nextcloud.intranet.local](http://nextcloud.intranet.local) -> Debian-projet-reverse-proxy -> Debian-projet-nextcloud
 
+![alt text](https://github.com/aymericcucherousset/Projet-SIO-AAPIB/blob/main/Mission%204_%20Gestion%20du%20parc/Reseau.PNG)
 
 ## IP [10.0.2.113 - 10.0.2.253] (Gateway 10.0.2.249-254)
 
