@@ -30,7 +30,7 @@ Aymeric a fini de développer l'intranet avec quelques semaines de retard.
 
 Nous avons installé et configuré le Reverse Proxy ensemble.
 
-La dernière semaine a vue naître le site Web vitrine, la cartographie du réseau, prépararation des procédures (utilisation du site...) et enfin la préparation des sécurités (Sans la mise en place).
+La dernière semaine a vu naître le site Web vitrine, la cartographie du réseau, prépararation des procédures (utilisation du site...) et enfin la préparation des sécurités (sans la mise en place).
 
 ## Expérimentations
 
