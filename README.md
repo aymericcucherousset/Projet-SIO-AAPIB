@@ -1,6 +1,14 @@
 # Projet-SIO-AAPIB
  Projet SIO AAPIB BTS SIO 1ère année, Aymeric Antoine
 
+## Expérimentations
+
+- Proxmox : 
+      Nous souhaitions avoir un serveur de virtualisation dans le but de se rapprocher d'un envirnement de production. Nous avions le choix entre Proxmox et Vmware, nous avons fait le choix de tester Proxmox, car il s'agit d'une solution open-source et le principe de conteneur LXC nous intéréssaient nottement pour l'optimisation de la consomation des ressources. Malheureusement nous n'avions pas serveur physique alors nous avons du passer par de la virtualisation imbriquée. Une fois l'installation terminée, nous nous sommes rendu compte que notre materiel physique ne pouvait pas supporter ça. Nous nous sommes alors rediriger vers Docker pour l'utilisation des conteuneurs et vers VirtualBox pour les machines virtuelles.
+      
+-  Docker :
+      Dans l'optique d'utiliser Docker pour la légèreté qu'offre les conteneurs, mais aussi pour garder le même environement en Développement qu'en production, dans le but d'optimiser cette phase de transition. Nous avons d'abord tester cette solution, mais très vite nous avons rencontrer un soucis qui était la persistance des données dans les conteuneurs. Ayant déjà perdu du temps dans la recherche d'une solution à notre problème de virtualisation imbriquée, nous avons fait le choix de partir sur VirtualBox et d'utiliser des machines virtuelles.
+      
 ## Objectifs
 
 - [x] Mission 1: Windows Serveur
