@@ -1,5 +1,7 @@
 # Projet-SIO-AAPIB
  Projet SIO AAPIB BTS SIO 1ère année, Aymeric Antoine
+ 
+![alt text](https://github.com/aymericcucherousset/Projet-SIO-AAPIB/blob/main/GANT.png)
 
  bla bla bla Gant bla bla bla
 
