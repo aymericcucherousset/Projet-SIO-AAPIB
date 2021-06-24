@@ -79,6 +79,11 @@ La dernière semaine a vu naître le site Web vitrine, la cartographie du résea
       - intranetuser / intranetpw (bdd)
       - root / projetsio (bdd)
       
+  # Glpi:
+    - Debian : sio et root / projetsio
+    
+    - Glpi : glpi / glpi
+      
  # Nextcloud:
     - Debian : sio et root / projetsio
     
