@@ -17,6 +17,8 @@ sudo ufw allow https // Autorisation des communication https
 sudo ufw allow 3306  // Autorisation des communication Mariadb 
 sudo ufw allow 389   // Autorisation des communication Ldap 
 
+sudo ufw enable      //  Activation de UFW
+
 
 
 [Debian-projet-REVERSE-Proxy](ssh, http, https)
@@ -32,6 +34,7 @@ sudo ufw allow ssh   // Autorisation des communication SSH
 sudo ufw allow http  // Autorisation des communication http 
 sudo ufw allow https // Autorisation des communication https 
 
+sudo ufw enable      //  Activation de UFW
 
 
 [Debian-projet-GLPI](ssh, http, https, mariadb, ldap)
@@ -49,6 +52,7 @@ sudo ufw allow https // Autorisation des communication https
 sudo ufw allow 3306  // Autorisation des communication Mariadb 
 sudo ufw allow 389   // Autorisation des communication Ldap 
 
+sudo ufw enable      //  Activation de UFW
 
 [Debian-projet-Nextcloud](ssh, http, https, mariadb, ldap)
 
@@ -65,7 +69,7 @@ sudo ufw allow https // Autorisation des communication https
 sudo ufw allow 3306  // Autorisation des communication Mariadb 
 sudo ufw allow 389   // Autorisation des communication Ldap 
 
-
+sudo ufw enable      //  Activation de UFW
 
 [Debian-projet-Zabbix](ssh, http, https, mariadb, ldap, Zabbix server, Active agent)
 
@@ -83,3 +87,5 @@ sudo ufw allow 3306    // Autorisation des communication Mariadb
 sudo ufw allow 389     // Autorisation des communication Ldap 
 sudo ufw allow 10050   // Autorisation des communication Zabbix server
 sudo ufw allow 10051   // Autorisation des communication Active agent
+
+sudo ufw enable      //  Activation de UFW
