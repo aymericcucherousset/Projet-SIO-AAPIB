@@ -1,0 +1,85 @@
+Nous souhaitions installer UFW comme firewall sur les machines Debian,
+mais pour des problématiques de délais nous n'avons pas pu nous permettre de l'installer et de le configurer sur les machines, 
+voici les instructions que nous aurions souhaitez réaliser : 
+
+[Debian-projet-web](ssh, http, https, mariadb, ldap)
+
+# Installation 
+sudo apt install ufw
+# Configuration 
+
+sudo ufw default deny incoming  // Bloquer les communications entrantes
+sudo ufw default allow outgoing // Autoriser les communications sortantes
+
+sudo ufw allow ssh   // Autorisation des communication SSH 
+sudo ufw allow http  // Autorisation des communication http 
+sudo ufw allow https // Autorisation des communication https 
+sudo ufw allow 3306  // Autorisation des communication Mariadb 
+sudo ufw allow 389   // Autorisation des communication Ldap 
+
+
+
+[Debian-projet-REVERSE-Proxy](ssh, http, https)
+
+# Installation 
+sudo apt install ufw
+# Configuration 
+
+sudo ufw default deny incoming  // Bloquer les communications entrantes
+sudo ufw default allow outgoing // Autoriser les communications sortantes
+
+sudo ufw allow ssh   // Autorisation des communication SSH 
+sudo ufw allow http  // Autorisation des communication http 
+sudo ufw allow https // Autorisation des communication https 
+
+
+
+[Debian-projet-GLPI](ssh, http, https, mariadb, ldap)
+
+# Installation 
+sudo apt install ufw
+# Configuration 
+
+sudo ufw default deny incoming  // Bloquer les communications entrantes
+sudo ufw default allow outgoing // Autoriser les communications sortantes
+
+sudo ufw allow ssh   // Autorisation des communication SSH 
+sudo ufw allow http  // Autorisation des communication http 
+sudo ufw allow https // Autorisation des communication https 
+sudo ufw allow 3306  // Autorisation des communication Mariadb 
+sudo ufw allow 389   // Autorisation des communication Ldap 
+
+
+[Debian-projet-Nextcloud](ssh, http, https, mariadb, ldap)
+
+# Installation 
+sudo apt install ufw
+# Configuration 
+
+sudo ufw default deny incoming  // Bloquer les communications entrantes
+sudo ufw default allow outgoing // Autoriser les communications sortantes
+
+sudo ufw allow ssh   // Autorisation des communication SSH 
+sudo ufw allow http  // Autorisation des communication http 
+sudo ufw allow https // Autorisation des communication https 
+sudo ufw allow 3306  // Autorisation des communication Mariadb 
+sudo ufw allow 389   // Autorisation des communication Ldap 
+
+
+
+[Debian-projet-Zabbix](ssh, http, https, mariadb, ldap, Zabbix server, Active agent)
+
+# Installation 
+sudo apt install ufw
+# Configuration 
+
+sudo ufw default deny incoming  // Bloquer les communications entrantes
+sudo ufw default allow outgoing // Autoriser les communications sortantes
+
+sudo ufw allow ssh     // Autorisation des communication SSH 
+sudo ufw allow http    // Autorisation des communication http 
+sudo ufw allow https   // Autorisation des communication https 
+sudo ufw allow 3306    // Autorisation des communication Mariadb 
+sudo ufw allow 389     // Autorisation des communication Ldap 
+sudo ufw allow 10050   // Autorisation des communication Zabbix server
+sudo ufw allow 10051   // Autorisation des communication Active agent
