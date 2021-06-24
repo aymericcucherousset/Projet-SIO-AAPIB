@@ -106,5 +106,4 @@ La dernière semaine nous avons fais le site Web vitrine, la cartographie du ré
 
   - Serveur DNS
 
-  - Cisco
   - Certficat avec authorité de certfication
