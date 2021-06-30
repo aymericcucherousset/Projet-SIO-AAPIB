@@ -137,3 +137,11 @@ La dernière semaine a vu naître le site Web vitrine, la cartographie du résea
   - Serveur DNS
 
   - Certficat avec authorité de certfication
+  
+## Schéma relationnel de l'intranet: 
+  - job_label (<ins>job_id</ins>, job_label)
+  - job_member (<ins>job_id#, user_id#</ins>, status#)
+  - job_status (<ins>id_status</ins>, label_status)
+  - service (<ins>id_service</ins>, name_service)
+  - service_member (<ins>user_id#, service_id#</ins>)
+  - user (<ins>id</ins>, last_name,first_name, email)
