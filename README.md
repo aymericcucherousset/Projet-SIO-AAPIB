@@ -144,4 +144,4 @@ La dernière semaine a vu naître le site Web vitrine, la cartographie du résea
   - job_status (<ins>id_status</ins>, label_status)
   - service (<ins>id_service</ins>, name_service)
   - service_member (<ins>user_id#, service_id#</ins>)
-  - user (<ins>id</ins>, last_name,first_name, email)
+  - user (<ins>id</ins>, last_name, first_name, email)
